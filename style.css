@@ -22,7 +22,7 @@ body {
   }
 }
 
-@keyframes fill {
+@keyframes fillAnimation {
   from {
     fill: transparent;
   }
